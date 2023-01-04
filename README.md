@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/106118414/190523242-6a65a5f2-4cfd-48aa-9da3-f3bf4e646b1f.png)
 
 
-Commonly known as one of the best Hypixel Skyblock flipping mods, and created by the well known ah flipper and youtuber TotallyAlex, TFM allows you to auction flip with minimal effort and maximum profit, with over 100 BILLION coins made by our users.
+Commonly known as one of the best Hypixel Skyblock flipping mods, created by the well known ah flipper and youtuber TotallyAlex and modded, added a faster api refresh by me. TFM allows you to auction flip with minimal effort and maximum profit, with over 100 BILLION coins made by our users.
 
 
 ![image](https://user-images.githubusercontent.com/105528432/168407362-9d558c5a-c2bc-46a5-b8f2-fc4eb76b5daa.png)
