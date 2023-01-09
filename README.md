@@ -1,5 +1,7 @@
 # TFM-Mod-Hypixel-Skyblock
 
+Discord: https://discord.gg/WmXfm7hE6t
+
 ![image](https://user-images.githubusercontent.com/106118414/190523218-a677141b-e732-497c-99a5-6b4f582b4598.png)
 ![image](https://user-images.githubusercontent.com/106118414/190523242-6a65a5f2-4cfd-48aa-9da3-f3bf4e646b1f.png)
 
